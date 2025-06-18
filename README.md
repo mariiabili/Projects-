@@ -26,7 +26,7 @@ To get a copy of this project up and running on your local machine for developme
               3. Open index.html in your web browser.
 
 🌐 Live Demo
-You can see a live demo of the application here: https://mariiabili.github.io/Projects-/
+You can see a live demo of the application here: https://mariiabili.github.io/todo-list/
 
 
 
